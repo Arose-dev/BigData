@@ -1,1 +1,0 @@
-### Big Data Hackathon for San Diego 2024 - Submitted Projects

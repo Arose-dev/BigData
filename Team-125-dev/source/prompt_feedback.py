@@ -1,2 +1,0 @@
-# Purpose: Prompts the user to speak about their experience for a maximum of 3 minutes, then calls the detect_speech()
-# function to record the audio and pass it to another file that autofills answers to certain questions.
